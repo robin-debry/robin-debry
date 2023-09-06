@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Robin Debry</h1>
-<h3 align="center">A student with a passion for computing</h3>
+<h1 align="center"> Hi 👋, I'm Robin Debry</h1>
+<h3 align="center"> A student with a passion for computing</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=robin-debry&label=Profile%20views&color=0e75b6&style=flat" alt="robin-debry" /> </p>
-
 
 - 🔭 I’m currently working on my [moonshot project](https://github.com/robin-debry/Moonshot_Project)
 
 - 🌱 I’m currently learning **How to update a screen reader**
 
-- 📫 How to reach me **<robin.debry@algosup.com>**
+- 📫 How to reach me **robin.debry@algosup.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
