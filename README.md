@@ -19,8 +19,8 @@
 
 :fire: **Stats**
 
-<p><img align="left" src="https://test-robin-debry.vercel.app/api/top-langs?username=robin-debry&show_icons=true&locale=en&layout=compact" alt="robin-debry" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robin-debry&show_icons=true&locale=en&layout=compact" alt="robin-debry" /></p>
 
-<p>&nbsp;<img align="center" src="https://test-robin-debry.vercel.app/api?username=robin-debry&show_icons=true&locale=en" alt="robin-debry" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robin-debry&show_icons=true&locale=en" alt="robin-debry" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robin-debry&" alt="robin-debry" /></p>
