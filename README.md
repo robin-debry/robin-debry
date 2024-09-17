@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my [moonshot project](https://github.com/robin-debry/Moonshot_Project)
 
-- 📫 How to reach me **robin.debry@algosup.com**
+- 📫 How to reach me **robindebry8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
